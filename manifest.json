@@ -2,7 +2,7 @@
    "fileLocations": [
        {
            "URIs": [
-               "s3://BUCKET-NAME/Amazon-Bestseller-Dataset.csv"
+               "s3://quicksight-s/Amazon-Bestseller-Dataset.csv"
            ]
        }
    ],
